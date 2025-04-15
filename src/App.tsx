@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-    <h1>Hola Código Club</h1>
-    <span>🚀🚀</span>
+      <h1>Hola Código Club</h1>
+      <span>🚀🚀</span>
+      <h2>Hola Mundo 🗺️</h2>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
